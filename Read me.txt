@@ -1,0 +1,17 @@
+This project is developed by Project Red Team, group members are listed below
+		Induraj Pudhupattu Ramamurthy	
+		Murali Krishna MopiDevi
+		Sahin Jangoli
+		Kofi Drammanae
+
+There are two ways one can realize the implementation of the file
+The first way is,
+	1. Just add the sql file into database server
+	2. click the runnable jar file named "student teacher appointment system.jar"
+The second way is,
+	1. import the project in the file project_red_003.zip and
+	2. Read the readme file within the project folder for further information to run
+
+
+The admin Login username is 	indu
+		password is 	6291
